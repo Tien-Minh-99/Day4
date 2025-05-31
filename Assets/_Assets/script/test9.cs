@@ -11,7 +11,7 @@ public class test9 : MonoBehaviour
         while( i < 5)
         {
             Debug.Log("i: " + i);
-
+            i++;
         }   
     }
 
